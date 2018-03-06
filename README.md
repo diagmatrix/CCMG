@@ -8,5 +8,5 @@ El CCMG-18 sigue los siguientes pilares:
 
 ### La creación
 CCMG-18 está basado en la representación de diferentes partes de figuras, que agrupan en su interior el máximo de caracteres posibles.
-![Abecedario a-p](D:\Manuel\CCMG\imagenes repo\a-p.png)
+![Abecedario a-p](https://github.com/Manuelbelgicano/CCMG/blob/master/Resources/a-p.png)
 
