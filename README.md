@@ -7,5 +7,6 @@ El CCMG-18 sigue los siguientes pilares:
 - Los caracteres pueden agruparse para formar figuras abiertas y rectilíneas, que siguiesen un patrón de simetría.
 
 ### La creación
-CCMG-18 se inspira en un sistema de escritura basado en las siguientes figuras:
-*[Insertar imagenes]*
+CCMG-18 está basado en la representación de diferentes partes de figuras, que agrupan en su interior el máximo de caracteres posibles.
+![Abecedario a-p](D:\Manuel\CCMG\imagenes repo\a-p.png)
+
