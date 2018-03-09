@@ -11,8 +11,8 @@ CCMG-18 está basado en la representación de diferentes partes de figuras, que 
 
 ![Abecedario a-r](https://github.com/Manuelbelgicano/CCMG/blob/master/Resources/a-p.png)
 
-![Abecedario s-z](CCMG/Resources/S-Z.png)
+![Abecedario s-z](https://github.com/Manuelbelgicano/CCMG/blob/master/Resources/S-Z.png)
 
-![Números](CCMG/Resources/numeros.png)
+![Números](https://github.com/Manuelbelgicano/CCMG/blob/master/Resources/numeros.png)
 
-![Símbolos de puntuación](CCMG/Resources/simbolos.png)
+![Símbolos de puntuación](https://github.com/Manuelbelgicano/CCMG/blob/master/Resources/simbolos.png)
